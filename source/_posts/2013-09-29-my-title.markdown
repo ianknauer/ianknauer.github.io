@@ -1,0 +1,8 @@
+---
+layout: post
+author: Ian Knauer
+title: "my title"
+date: 2013-09-29 22:30
+comments: true
+categories: 
+---
